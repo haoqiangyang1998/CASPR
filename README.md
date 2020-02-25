@@ -1,4 +1,4 @@
-# CASPR #
+# CASPR edit # 
 The *Cable-robot Analysis and Simulation Platform for Research (CASPR)*  is an open-source software platform developed in MATLAB that facilitates a range of analysis approaches on arbitrary cable-robot models.
 ## Purpose: ##
 CASPR is designed for researchers to perform study on Cable-Driven Parallel Robots (*CDPRs*). CASPR aims to provide researchers with:
